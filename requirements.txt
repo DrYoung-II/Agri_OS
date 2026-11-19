@@ -1,0 +1,15 @@
+# Agri_OS Africa - Requirements
+# 100% free / open-source stack. No paid API keys required.
+#
+# AI: uses a LOCALLY installed Llama 3.2 model served by Ollama (https://ollama.com)
+#     -> install Ollama separately (not a pip package), then: ollama pull llama3.2
+#
+# Weather: free, keyless Open-Meteo API (https://open-meteo.com)
+
+streamlit>=1.38.0
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.26.0
+plotly>=5.20.0
+python-dateutil>=2.9.0
+# SpeechRecognition>=3.10.0

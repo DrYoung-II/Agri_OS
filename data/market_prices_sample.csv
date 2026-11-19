@@ -1,0 +1,35 @@
+country,commodity,category,unit,price,currency
+Nigeria,Maize,Crop,50kg bag,32000,NGN
+Nigeria,Cassava,Crop,ton,45000,NGN
+Nigeria,Rice (Paddy),Crop,50kg bag,55000,NGN
+Nigeria,Sorghum,Crop,50kg bag,30000,NGN
+Nigeria,Broiler Feed (Finisher),Livestock Feed,25kg bag,21000,NGN
+Nigeria,Broiler Feed (Starter),Livestock Feed,25kg bag,22500,NGN
+Nigeria,Layer Mash,Livestock Feed,25kg bag,18500,NGN
+Nigeria,Live Broiler Chicken,Livestock,kg live weight,2800,NGN
+Nigeria,Table Eggs,Livestock,crate (30 eggs),4200,NGN
+Nigeria,Live Cattle,Livestock,kg live weight,3200,NGN
+Nigeria,Goat,Livestock,per animal,65000,NGN
+Nigeria,Catfish,Livestock,kg,1800,NGN
+Kenya,Maize,Crop,90kg bag,4200,KES
+Kenya,Broiler Feed (Finisher),Livestock Feed,70kg bag,4800,KES
+Kenya,Live Broiler Chicken,Livestock,kg live weight,320,KES
+Kenya,Table Eggs,Livestock,tray (30 eggs),420,KES
+Kenya,Dairy Meal,Livestock Feed,70kg bag,3400,KES
+Kenya,Milk,Livestock,litre,55,KES
+Ghana,Maize,Crop,100kg bag,650,GHS
+Ghana,Broiler Feed (Finisher),Livestock Feed,50kg bag,410,GHS
+Ghana,Live Broiler Chicken,Livestock,kg live weight,28,GHS
+Ghana,Cassava,Crop,ton,900,GHS
+Tanzania,Maize,Crop,100kg bag,75000,TZS
+Tanzania,Broiler Feed (Finisher),Livestock Feed,50kg bag,68000,TZS
+Tanzania,Live Broiler Chicken,Livestock,kg live weight,7500,TZS
+Uganda,Maize,Crop,100kg bag,180000,UGX
+Uganda,Broiler Feed (Finisher),Livestock Feed,70kg bag,230000,UGX
+Uganda,Live Broiler Chicken,Livestock,kg live weight,11000,UGX
+Ethiopia,Maize,Crop,100kg bag,3800,ETB
+Ethiopia,Teff,Crop,100kg bag,9500,ETB
+Ethiopia,Live Broiler Chicken,Livestock,kg live weight,420,ETB
+South Africa,Maize,Crop,ton,4500,ZAR
+South Africa,Broiler Feed (Finisher),Livestock Feed,40kg bag,320,ZAR
+South Africa,Live Broiler Chicken,Livestock,kg live weight,32,ZAR
